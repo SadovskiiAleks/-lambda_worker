@@ -21,6 +21,4 @@ public class Worker {
             callback.onDone("Task " + i + " is done");
         }
     }
-
-
 }
